@@ -28,7 +28,7 @@ A fully autonomous, non-custodial **CAKE** lottery on **BNB Smart Chain Mainnet*
 | :--- | :--- |
 | **Network** | BNB Smart Chain (BSC Mainnet) |
 | **Ticket Currency & Price** | 1 CAKE per ticket (BEP-20) |
-| **Winner Payout** | 95% of the prize pool (sent automatically to the winner) |
+| **Winner Payout** | 95% of the prize pool (sent automatically to the winners) |
 | **Protocol Fee** | 5% flat (covers Chainlink VRF & Automation upkeep) |
 | **Minimum Threshold** | 5 tickets per round (auto-refund if not met) |
 
