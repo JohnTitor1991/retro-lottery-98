@@ -59,7 +59,7 @@ A non-custodial, verifiable **CAKE** lottery and retro Web3 arcade on **BNB Smar
 
 * **DEV.to:** [Architecture Breakdown on DEV.to](https://dev.to/john_titor_1991/i-built-a-non-custodial-cake-lottery-with-a-windows-98-ui-and-chainlink-vrf-v25-2ogl)
 * **Hashnode:** [Architecture Breakdown on Hashnode](https://retrolottery98.hashnode.dev/)
-* **Paragraph:** *(https://paragraph.com/@retrolottery98/preview/EVoCMrt43dYmOT6zsv2e)*
+* **Paragraph:** *(https://paragraph.com/@retrolottery98/building-retro-lottery-98-a-windows-98-decentralized-cake)*
 
 ## Disclaimer
 
